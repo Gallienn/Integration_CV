@@ -61,6 +61,10 @@ html {
   font-family: "Jacquard 24";
 }
 
+body {
+  font-family: "Jacquard", "Jacquard 24" !important;
+}
+
 .site-title {
   font-size: 1.25rem;
   line-height: 2.5rem; }
